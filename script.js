@@ -1,1 +1,3 @@
-console.log("Login Page Loaded");
+function login() {
+    alert("Login Successful");
+}
